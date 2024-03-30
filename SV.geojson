@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "name": "SV",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Sekolah Vokasi",
+        "description": null,
+        "timestamp": null,
+        "begin": null,
+        "end": null,
+        "altitudeMode": null,
+        "tessellate": 1,
+        "extrude": 0,
+        "visibility": -1,
+        "drawOrder": null,
+        "icon": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [110.373641891928798, -7.773267580231813, 0.0],
+            [110.372766335909205, -7.775432124074698, 0.0],
+            [110.374266714026305, -7.775996413431738, 0.0],
+            [110.375220651627004, -7.773903445708186, 0.0],
+            [110.374314270537297, -7.773466662123508, 0.0],
+            [110.373641891928798, -7.773267580231813, 0.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
